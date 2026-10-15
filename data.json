@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "eyebrow": "TRAVEL · PLAN 2026",
+    "title": "济州岛",
+    "subtitle": "3天2夜",
+    "location": "海外 · 济州岛",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-31",
+    "members": [
+      "A",
+      "B"
+    ],
+    "remind": "",
+    "footer": "下一站 · 济州岛"
+  },
+  "days": [
+    {
+      "date": "2026-10-29",
+      "title": "第 1 天",
+      "sub": "",
+      "tags": [],
+      "stay": "",
+      "items": []
+    },
+    {
+      "date": "2026-10-30",
+      "title": "第 2 天",
+      "sub": "",
+      "tags": [],
+      "stay": "",
+      "items": []
+    },
+    {
+      "date": "2026-10-31",
+      "title": "第 3 天",
+      "sub": "",
+      "tags": [],
+      "stay": "",
+      "items": []
+    }
+  ],
+  "expenses": []
+}
