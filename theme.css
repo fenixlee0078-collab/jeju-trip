@@ -1,0 +1,33 @@
+/* 主题：ocean（由 create_trip.py 自动生成） */
+:root{
+  --ink:#16313A;
+  --ink2:#3F5860;
+  --ink3:#7E939A;
+  --paper:#F0F6F7;
+  --card:#FFFFFF;
+  --line:#D7E4E7;
+  --forest:#0E3A4A;
+  --forest2:#1D5A70;
+  --moss:#5B8CA0;
+  --clay:#C07A56;
+  --sun:#E0A44A;
+  --fog:#EAF3F5;
+  --shadow:0 2px 4px rgba(20,30,24,.04), 0 12px 28px rgba(20,30,24,.08);
+
+  --hero-grad:linear-gradient(160deg,#08222E 0%,#0E3A4A 45%,#1D5A70 100%);
+  --hero-text:#EDF5F7;
+  --hero-sub:#A9CDD8;
+  --glow-rgb:224,164,74;
+  --fog-rgb:8,34,46;
+
+  --next-grad:linear-gradient(135deg,#0B2B38 0%,#134458 52%,#1D5A70 100%);
+  --next-sub:#9FC6D1;
+  --next-label:#7FA6B3;
+  --next-num:#C3E0E8;
+
+  --hill-sun:#E0A44A;
+  --hill1:#1D5A70;
+  --hill2:#134458;
+  --hill3:#0B2B38;
+  --hill4:#071E28;
+}
